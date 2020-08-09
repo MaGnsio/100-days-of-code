@@ -571,3 +571,10 @@ int main ()
 		bank_data.close();
 	}
 //end of the program
+
+
+//Things That I wanted to make it better.
+//1.make GUI for the program.
+//2.make an icon for .exe file.
+//3.some functionality like helping system to backup your lost data, hide password and make it more secure.
+//4.make a real data base for the program.
