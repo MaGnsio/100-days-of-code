@@ -23,3 +23,11 @@
 **Thoughts:** feeling so much Improvement which makes me so excited. 
 
 **Link to work:** [recent code progress](https://github.com/MaGnsio/100-days-of-code/commit/a67851c5730802c51d81d2d5c64a88a45fc34c35)
+
+### Day 3: August 08, 2020
+
+**Today's Progress:** put the final touches on my projects and its now ready to run -> implemented my new defined exceptions, reviewed the pretyped functions and commented them, and completed the main function.
+
+**Thoughts:** i've learned so much doing this project but there is still to much to go. [My Thoughts About The Project](https://github.com/MaGnsio/100-days-of-code/blob/master/banking%20system%20project/My%20Thoughts.md) 
+
+**Link to work:** [The Completed Project](https://github.com/MaGnsio/100-days-of-code/tree/master/banking%20system%20project)
