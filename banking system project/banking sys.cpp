@@ -586,3 +586,4 @@ int main ()
 //2.make an icon for .exe file.
 //3.some functionality like helping system to backup your lost data, hide password and make it more secure.
 //4.make a real data base for the program.
+//5.also knew that system function is heavy and have alot of replacements but its too late to change it.
