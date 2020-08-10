@@ -209,6 +209,7 @@ int main ()
 					break;
 					//view an existing account
 				case 2:
+					system ("cls");
 					//taking inputs
 					std::cout << "Enter Your Account Number : \n";
 					std::cin >> acc_num;
@@ -235,6 +236,7 @@ int main ()
 					break;
 					//deposit
 				case 3:
+					system ("cls");
 					//taking inputs
 					std::cout << "Enter Your Account Number : \n";
 					std::cin >> acc_num;
@@ -250,6 +252,7 @@ int main ()
 					break;
 					//withdraw
 				case 4:
+					system ("cls");
 					//taking inputs
 					std::cout << "Enter Your Account Number : \n";
 					std::cin >> acc_num;
@@ -280,6 +283,7 @@ int main ()
 					break;
 					//close account
 				case 5:
+					system ("cls");
 					std::cout << "Enter Your Account Number : \n";
 					std::cin >> acc_num;
 					std::cout << "Enter Your Account name : \n";
@@ -343,7 +347,9 @@ int main ()
 			{
 				//view all accounts
 				case 1:
+				system ("cls");
 				//taking input
+				std::cout << "Enter Bank Managers Password : \n";
 				getline (std::cin, bank_password);
 				//Bank manager password checker
 				try
@@ -362,7 +368,9 @@ int main ()
 				system ("cls");
 				//view bank's total budget	
 				case 2:
+				system ("cls");
 				//taking input
+				std::cout << "Enter Bank Managers Password : \n";
 				getline (std::cin, bank_password);
 				//Bank manager password checker
 				try
