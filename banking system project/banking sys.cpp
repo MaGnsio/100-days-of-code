@@ -166,7 +166,7 @@ int main ()
 			//exception handling for choosing nonexisting number
 			try
 			{
-				if (option_1 != 1 || option_1 != 2 || option_1 != 3 || option_1 != 4 || option_1 != 5 || option_1 != 6)
+				if (option_1 != 1 && option_1 != 2 && option_1 != 3 && option_1 != 4 && option_1 != 5 && option_1 != 6)
 					throw opt_error ();
 			}
 			catch (opt_error& o)
@@ -333,7 +333,7 @@ int main ()
 			std::cin >> option_2;
 			try
 			{
-				if (option_2 != 1 || option_2 != 2 || option_2 != 3)
+				if (option_2 != 1 && option_2 != 2 && option_2 != 3)
 					throw opt_error ();
 			}
 
