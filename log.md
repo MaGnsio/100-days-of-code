@@ -39,3 +39,11 @@
 **Thoughts:** solving problems and cp is so much fun and make you feel like you are doing some kind of esports (and you are) however its require so much concentration and a lot of practice.  
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+### Day 6: August 11, 2020
+
+**Today's Progress:** continued practicing on problem solving (on code forces) and tried to be prepared as much as possible for tommorow's code forces div2 round.
+
+**Thoughts:** i dunno 🤣.  
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
