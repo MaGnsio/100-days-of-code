@@ -1,7 +1,5 @@
 //https://codeforces.com/problemset/problem/1064/A
-#include <cstdio>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 
 int main(){
 

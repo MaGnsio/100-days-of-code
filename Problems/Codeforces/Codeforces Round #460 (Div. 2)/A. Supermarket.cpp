@@ -1,7 +1,5 @@
 //https://codeforces.com/problemset/problem/919/A
-#include <iostream>
-#include <limits>
-#include <iomanip>
+#include <bits/stdc++.h>
 
 int main ()
 {

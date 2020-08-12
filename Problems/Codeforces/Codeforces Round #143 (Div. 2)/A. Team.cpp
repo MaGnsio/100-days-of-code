@@ -1,5 +1,5 @@
 //https://codeforces.com/problemset/problem/231/A
-#include <iostream>
+#include <bits/stdc++.h>
 
 int main ()
 {
