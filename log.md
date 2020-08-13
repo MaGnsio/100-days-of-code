@@ -50,7 +50,7 @@
 
 ### Day 7: August 12, 2020
 
-**Today's Progress:** participated in "Codeforces Round #664 (Div. 2)" got the 9985 (solved 0) (close to 2), reviewed some of the contest problems solutions, and solved like 3 other problems from code forces problemset.
+**Today's Progress:** participated in "Codeforces Round #664 (Div. 2)" got the 9985 rank (solved 0) (close to 2), reviewed some of the contest problems solutions, and solved like 3 other problems from code forces problemset.
 
 **Thoughts:** despite solving 0 problems and getting low rank i'm not disappointed at all as i didn't have high expectations. after seeing that my rating got increased by 370 it felt like i'm doing well.  
 
