@@ -1,6 +1,6 @@
 # PROBLEMS SOLVED
 
-    CODE FORCES : 12
+    CODE FORCES : 16
     
     HACKER RANK : 2
 ***
