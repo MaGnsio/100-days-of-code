@@ -64,3 +64,6 @@
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
+### Day 9: August 14, 2020 -> Day 11: August 16, 2020
+
+**       Progress:** solved problems on code forces, searched for some cp tips and tried to get more into data structures and algorithms.
