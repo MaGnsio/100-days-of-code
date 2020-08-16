@@ -66,7 +66,7 @@
 
 ### Day 9: August 14, 2020 -> Day 11: August 16, 2020
 
-**Progress:** solved a bunch of problems on codeforces, learning about data structures, algorithms and dynamic programming, and i read through the early chapters of "C++ Crash Course: A Fast-Paced Introduction" book which is a great and so much recommended as a second step after learning C++ basics.
+**Progress:** solved a bunch of problems on codeforces, learning about data structures, algorithms and dynamic programming, and i read through the early chapters of "C++ Crash Course: A Fast-Paced Introduction" book which is a great book and so much recommended as a second step after learning C++ basics.
 
 **Thoughts:** practicing is going pretty well and i could feel that i'm getting better but i was about to fell into "reading more than practicing trap" which could
 have really slowed me down.
