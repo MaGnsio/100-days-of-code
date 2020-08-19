@@ -72,3 +72,11 @@
 have really slowed me down.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+### Day 12: August 17, 2020 -> Day 13: August 18, 2020
+
+**Progress:** more and more problem solving. i'm now capable to solve harder problems and i'm gradually learning data structures and algorithms. i learned more about vim and started using it as my main text editor.
+
+**Thoughts:** every day is better than before, pracicing could easily make you feel that you are getting better even if you are not doing that much of progression.
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
