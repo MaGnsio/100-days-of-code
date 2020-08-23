@@ -83,7 +83,7 @@ have really slowed me down.
 
 ### Day 14: August 19, 2020 -> Day 18: August 23, 2020
 
-**Progress:** solved 31 problem on CF, participated in "Educational Codeforces Round 94 (Rated for Div. 2)", read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book, and learned about string algorithms, frequency array, and the modulo output
+**Progress:** solved 31 problem on CF, participated in "Educational Codeforces Round 94 (Rated for Div. 2)", read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book, and learned about string algorithms, frequency array, and the modulo output.
 
 **Thoughts:** things are getting clearer
 
