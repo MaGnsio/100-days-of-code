@@ -88,3 +88,19 @@ have really slowed me down.
 **Thoughts:** things are getting clearer
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+### Day 19: August 24, 2020
+
+**Today's Progress:** I took the day off to chill out and recover.
+
+**Thoughts:** NULL.
+
+**Link to work:** NULL.
+
+### Day 20: August 25, 2020 -> Day 24: August 29, 2020
+
+**Progress:** solved 27 problem on CF.
+
+**Thoughts:** actually those couple days i'm not doing as good as i should due to sickness but i'm sure i'll bounce back
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
