@@ -154,3 +154,14 @@ have really slowed me down.
 **Thoughts:** at this point i could definitely feel an improvement but i could have done better.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+
+
+
+### Day 40: September 14, 2020 -> Day 46: September 20, 2020
+
+**Progress:** solved 17 problem on CF, participated in 1 codeforces contests.
+
+**Thoughts:** NULL.
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
