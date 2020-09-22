@@ -116,7 +116,7 @@ have really slowed me down.
 
 ### Day 14: August 19, 2020 -> Day 18: August 23, 2020
 
-**Progress:** solved 31 problem on CF, participated in "Educational Codeforces Round 93 (Rated for Div. 2)", read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book, and learned about string algorithms, frequency array, and the modulo output.
+**Progress:** solved 31 problems on CF, participated in "Educational Codeforces Round 93 (Rated for Div. 2)", read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book, and learned about string algorithms, frequency array, and the modulo output.
 
 **Thoughts:** things are getting clearer
 
@@ -138,7 +138,7 @@ have really slowed me down.
 
 ### Day 20: August 25, 2020 -> Day 24: August 29, 2020
 
-**Progress:** solved 27 problem on CF.
+**Progress:** solved 27 problems on CF.
 
 **Thoughts:** actually those couple days i'm not doing as good as i should due to sickness but i'm sure i'll bounce back
 
@@ -149,7 +149,7 @@ have really slowed me down.
 
 ### Day 25: August 30, 2020 -> Day 39: September 13, 2020
 
-**Progress:** solved 44 problem on CF, participated in 4 codeforces contests.
+**Progress:** solved 44 problems on CF, participated in 4 codeforces contests.
 
 **Thoughts:** at this point i could definitely feel an improvement but i could have done better.
 
@@ -160,7 +160,18 @@ have really slowed me down.
 
 ### Day 40: September 14, 2020 -> Day 46: September 20, 2020
 
-**Progress:** solved 17 problem on CF, participated in 1 codeforces contests.
+**Progress:** solved 17 problems on CF, participated in 1 codeforces contests.
+
+**Thoughts:** NULL.
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+
+
+
+### Day 47: September 21, 2020
+
+**Progress:** solved 3 problems on CF.
 
 **Thoughts:** NULL.
 
