@@ -182,7 +182,7 @@ have really slowed me down.
 
 ### Day 48: September 22, 2020
 
-**Progress:** solved 9 problems on CF & learned about the implementation of set, unoreded-set, multiset, and unoreded-multi set.
+**Progress:** solved 9 problems on CF & learned about the implementation of set, unordered-set, multiset, and unordered-multiset.
 
 **Thoughts:** NULL.
 
