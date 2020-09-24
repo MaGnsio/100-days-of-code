@@ -187,3 +187,14 @@ have really slowed me down.
 **Thoughts:** NULL.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+
+
+
+### Day 48: September 23, 2020
+
+**Progress:** solved 4 problems on CF & learned about binary tree.
+
+**Thoughts:** NULL.
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
