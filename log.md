@@ -5,8 +5,6 @@
 * made the intial code structure (classes & functions declaration ...). 
 
 **Link to work:** [c++ course](https://www.udemy.com/course/cpp-deep-dive/) , [recent code progress](https://github.com/MaGnsio/100-days-of-code/commit/e83ed7798d9ba1f236457d534316495f05ed625f)
-
-
 ========
 
 
