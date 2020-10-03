@@ -209,3 +209,14 @@ have really slowed me down.
 **Thoughts:** NULL.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+
+
+
+
+### Day 52: September 26, 2020 -> Day 58: October 2, 2020
+
+**Progress:** solved 13 problems on CF, participated in 1 codeforces contests.
+
+**Thoughts:** NULL.
+
+**Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
