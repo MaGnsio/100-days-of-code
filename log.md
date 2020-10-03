@@ -1,8 +1,8 @@
-- # Day 001: August 06, 2020
+# Day 001: August 06, 2020
 
-* started a banking system project which is from the course that i've recently finished (& the only course)
-* made a flow chart for the project
-* made the intial code structure (classes & functions declaration ...) . 
+* started a banking system project which is from the course that i've recently finished (& the only course).
+* made a flow chart for the project.
+* made the intial code structure (classes & functions declaration ...). 
 
 **Link to work:** [c++ course](https://www.udemy.com/course/cpp-deep-dive/) , [recent code progress](https://github.com/MaGnsio/100-days-of-code/commit/e83ed7798d9ba1f236457d534316495f05ed625f)
 
@@ -12,7 +12,9 @@
 
 # Day 002: August 07, 2020
 
-**Today's Progress:** Improved the code structure, considered adding some new features and a way to implement them and I wrote some functions definition.
+* Improved the code structure.
+* considered adding some new features and a way to implement them.
+* wrote some functions.
 
 **Link to work:** [recent code progress](https://github.com/MaGnsio/100-days-of-code/commit/d80a894cf794b5096a17e7b340c838335b20c914)
 
@@ -22,7 +24,9 @@
 
 # Day 003: August 08, 2020
 
-**Today's Progress:** implemented every member function of the project classes, finalized the program structure and practiced a bit on file handling using C++.
+* implemented every member function of the project classes.
+* finalized the program structure.
+* practiced a bit on file handling using C++.
 
 **Link to work:** [recent code progress](https://github.com/MaGnsio/100-days-of-code/commit/a67851c5730802c51d81d2d5c64a88a45fc34c35)
 
@@ -32,7 +36,10 @@
 
 # Day 004: August 09, 2020
 
-**Today's Progress:** put the final touches on my projects and its now ready to run -> implemented my new defined exceptions, reviewed the pretyped functions and commented them, and completed the main function.
+* put the final touches on my projects.
+* implemented new defined exceptions.
+* reviewed the pretyped functions and commented them.
+* completed the main function.
 
 **Link to work:** [The Completed Project](https://github.com/MaGnsio/100-days-of-code/tree/master/banking%20system%20project)
 
@@ -42,7 +49,8 @@
 
 # Day 005: August 10, 2020
 
-**Today's Progress:** today i started practicing on problems (codeforces mainly) and i solved 5 easy problems.
+* started practicing on problem solving (codeforces mainly).
+* solved 5 easy problems.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -52,7 +60,7 @@
 
 # Day 006: August 11, 2020
 
-**Today's Progress:** continued practicing on problem solving (on code forces) and tried to be prepared as much as possible for tommorow's code forces div2 round.
+* continued practicing on problem solving (on code forces) and tried to be prepared as much as possible for tommorow's code forces div2 round.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -62,7 +70,9 @@
 
 # Day 007: August 12, 2020
 
-**Today's Progress:** participated in "Codeforces Round #664 (Div. 2)" got the 9985 rank (solved 0) (close to 2), reviewed some of the contest problems solutions, and solved like 3 other problems from code forces problemset.
+* participated in "Codeforces Round #664 (Div. 2)" got the 9985 rank (solved 0) (close to 2).
+* reviewed some of the contest problems solutions.
+* solved 3 problems from code forces problemset.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -72,7 +82,8 @@
 
 # Day 008: August 13, 2020
 
-**Today's Progress:** solved problems on code forces, searched for some cp tips and tried to get more into data structures and algorithms.
+* solved problems on code forces.
+* searched for some cp tips and tried to get more into data structures and algorithms.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -80,11 +91,13 @@
 <br>
 
 
-- # Day 009: August 14, 2020
-- # Day 010: August 15, 2020
-- # Day 011: August 16, 2020 
+# Day 009: August 14, 2020
+# Day 010: August 15, 2020
+# Day 011: August 16, 2020 
 
-**Progress:** solved a bunch of problems on codeforces, learning about data structures, algorithms and dynamic programming, and i read through the early chapters of "C++ Crash Course: A Fast-Paced Introduction" book which is a great book and so much recommended as a second step after learning C++ basics.
+* solved a bunch of problems on codeforces.
+* learning about data structures, algorithms and dynamic programming.
+* read through the early chapters of "C++ Crash Course: A Fast-Paced Introduction" book.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -95,7 +108,8 @@
 # Day 012: August 17, 2020 
 # Day 013: August 18, 2020
 
-**Progress:** more and more problem solving. i'm now capable to solve harder problems and i'm gradually learning data structures and algorithms. i learned more about vim and started using it as my main text editor.
+* problem solving.
+* learned more about vim and started using it as my main text editor.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -109,7 +123,10 @@
 # Day 017: August 22, 2020
 # Day 018: August 23, 2020
 
-**Progress:** solved 31 problems on CF, participated in "Educational Codeforces Round 93 (Rated for Div. 2)", read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book, and learned about string algorithms, frequency array, and the modulo output.
+* solved 31 problems on CF.
+* participated in "Educational Codeforces Round 93 (Rated for Div. 2)".
+* read chapter 3 & 4 from "c++ crash course a fast-paced introduction" book.
+* learned about string algorithms, frequency array, and the modulo output.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -124,7 +141,7 @@
 # Day 023: August 28, 2020
 # Day 024: August 29, 2020
 
-**Progress:** solved 27 problems on CF.
+* solved 27 problems on CF.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -148,7 +165,8 @@
 # Day 038: September 12, 2020
 # Day 039: September 13, 2020
 
-**Progress:** solved 44 problems on CF, participated in 4 codeforces contests.
+* solved 44 problems on CF.
+* participated in 4 codeforces contests.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -164,7 +182,8 @@
 # Day 045: September 19, 2020
 # Day 046: September 20, 2020
 
-**Progress:** solved 17 problems on CF, participated in 1 codeforces contests.
+* solved 17 problems on CF.
+* participated in 1 codeforces contests.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -174,7 +193,7 @@
 
 # Day 047: September 21, 2020
 
-**Progress:** solved 3 problems on CF.
+* solved 3 problems on CF.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -184,7 +203,8 @@
 
 # Day 048: September 22, 2020
 
-**Progress:** solved 9 problems on CF & learned about the implementation of set, unordered-set, multiset, and unordered-multiset.
+* solved 9 problems on CF.
+* learned about the implementation of set, unordered-set, multiset, and unordered-multiset.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -205,7 +225,8 @@
 # Day 050: September 24, 2020
 # Day 051: September 25, 2020
 
-**Progress:** solved 6 problems on CF, participated in 1 codeforces contests.
+* solved 6 problems on CF.
+* participated in 1 codeforces contests.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
@@ -221,7 +242,8 @@
 # Day 057: October 01, 2020
 # Day 058: October 02, 2020
 
-**Progress:** solved 16 problems on CF, participated in 1 codeforces contests.
+* solved 16 problems on CF.
+* participated in 1 codeforces contests.
 
 **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
