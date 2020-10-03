@@ -1,4 +1,4 @@
-# Day 001: August 06, 2020
+* # Day 001: August 06, 2020
 
 * started a banking system project which is from the course that i've recently finished (& the only course)
 * made a flow chart for the project
