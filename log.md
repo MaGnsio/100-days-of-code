@@ -215,7 +215,7 @@ have really slowed me down.
 
 ### Day 52: September 26, 2020 -> Day 58: October 2, 2020
 
-**Progress:** solved 13 problems on CF, participated in 1 codeforces contests.
+**Progress:** solved 16 problems on CF, participated in 1 codeforces contests.
 
 **Thoughts:** NULL.
 
