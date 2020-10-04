@@ -175,3 +175,6 @@
 * participated in 1 codeforces contests.
 
   **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
+  
+# Day 059: October 03, 2020
+<!--solved 5 problems, learned about hashing and pairs-->
