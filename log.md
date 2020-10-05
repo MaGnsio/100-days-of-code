@@ -177,4 +177,5 @@
   **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
   
 # Day 059: October 03, 2020
-<!--solved 5 problems, learned about hashing and pairs-->
+# Day 060: October 04, 2020
+<!--solved 9 problems, learned about hashing and pairs-->
