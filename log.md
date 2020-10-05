@@ -59,9 +59,9 @@
 
   **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
 
-## Day 009: August 14, 2020
-## Day 010: August 15, 2020
-## Day 011: August 16, 2020 
+### Day 009: August 14, 2020
+### Day 010: August 15, 2020
+### Day 011: August 16, 2020 
 
 * solved a bunch of problems on codeforces.
 * learning about data structures, algorithms and dynamic programming.
