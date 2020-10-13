@@ -178,4 +178,18 @@
   
 ### Day 059: October 03, 2020
 ### Day 060: October 04, 2020
-<!--solved 9 problems, learned about hashing and pairs-->
+### Day 061: October 05, 2020
+### Day 062: October 06, 2020
+### Day 063: October 07, 2020
+### Day 064: October 08, 2020
+### Day 065: October 09, 2020
+### Day 066: October 10, 2020
+### Day 067: October 11, 2020
+### Day 068: October 12, 2020
+* solved 30 problems on various tobics on CF & AtCoder.
+* participated in 1 CF contest & The 2020 ACPC Kickoff.
+* learned about hashing.
+* learned about pairs & tubles.
+* learned about bit manipulation & bitmask.
+
+  **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
