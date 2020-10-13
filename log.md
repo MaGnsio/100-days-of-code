@@ -192,6 +192,6 @@
 * learned about pairs & tubles.
 * learned about bit manipulation & bitmask.
 
-![The 2020 ACPC Kickoff][https://drive.google.com/file/d/1P1Fgm3UhUwsWVByq_TXYy6Puco-07zlB/view?usp=sharing]
+![The 2020 ACPC Kickoff](https://drive.google.com/file/d/1P1Fgm3UhUwsWVByq_TXYy6Puco-07zlB/view?usp=sharing)
 
   **Link to work:** [Problems Folder on GitHub](https://github.com/MaGnsio/100-days-of-code/tree/master/Problems)
