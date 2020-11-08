@@ -185,6 +185,6 @@
 ### Day 094: November 07, 2020
 ### Day 095: November 08, 2020
   
-  ####ECPC 2020 Qualification Round Preparation
-* solved 204 problems.
-* studied different data structure & algorithms tobics
+* **ECPC 2020 Qualification Round Preparation**
+    * solved 204 problems.
+    * studied different data structure & algorithms tobics
