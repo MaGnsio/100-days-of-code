@@ -156,3 +156,35 @@
 * learned about bit manipulation & bitmask.
 
  ![The 2020 ACPC Kickoff](https://i.ibb.co/Q9CW77z/The-2020-ACPC-Kickoff.png)
+
+### Day 069: October 13, 2020
+### Day 070: October 14, 2020
+### Day 071: October 15, 2020
+### Day 072: October 16, 2020
+### Day 073: October 17, 2020
+### Day 074: October 18, 2020
+### Day 075: October 19, 2020
+### Day 076: October 20, 2020
+### Day 077: October 21, 2020
+### Day 078: October 22, 2020
+### Day 079: October 23, 2020
+### Day 080: October 24, 2020
+### Day 081: October 25, 2020
+### Day 082: October 26, 2020
+### Day 083: October 27, 2020
+### Day 084: October 28, 2020
+### Day 085: October 29, 2020
+### Day 086: October 30, 2020
+### Day 087: October 31, 2020
+### Day 088: November 01, 2020
+### Day 089: November 02, 2020
+### Day 090: November 03, 2020
+### Day 091: November 04, 2020
+### Day 092: November 05, 2020
+### Day 093: November 06, 2020
+### Day 094: November 07, 2020
+### Day 095: November 08, 2020
+  
+  ####ECPC 2020 Qualification Round Preparation
+* solved 204 problems.
+* studied different data structure & algorithms tobics
