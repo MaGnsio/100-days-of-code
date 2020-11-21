@@ -184,7 +184,14 @@
 ### Day 093: November 06, 2020
 ### Day 094: November 07, 2020
 ### Day 095: November 08, 2020
+### Day 096: November 09, 2020
+### Day 097: November 10, 2020
+### Day 098: November 11, 2020
+### Day 099: November 12, 2020
+### Day 100: November 13, 2020
   
 * **ECPC 2020 Qualification Round Preparation**
-    * solved 204 problems.
+    * solved 240 problems.
     * studied different data structure & algorithms tobics
+    * particpated in **ECPC 2020 Qualification Round** (10th on the university)[https://icpc.global/regionals/finder/AzharCPC-2020/standings]
+https://icpc.global/regionals/finder/AzharCPC-2020/standings
