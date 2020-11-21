@@ -193,5 +193,4 @@
 * **ECPC 2020 Qualification Round Preparation**
     * solved 240 problems.
     * studied different data structure & algorithms tobics
-    * particpated in **ECPC 2020 Qualification Round** (10th on the university)[https://icpc.global/regionals/finder/AzharCPC-2020/standings]
-https://icpc.global/regionals/finder/AzharCPC-2020/standings
+    * particpated in **ECPC 2020 Qualification Round** [10th on the university](https://icpc.global/regionals/finder/AzharCPC-2020/standings)
